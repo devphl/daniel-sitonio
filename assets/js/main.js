@@ -405,7 +405,7 @@ const App = (function () {
     if (!form || !feedback) return;
 
     // Contact number configured for redirection
-    const WHATSAPP_NUMBER = "5583998004935";
+    const WHATSAPP_NUMBER = "5583993094321";
 
     form.addEventListener("submit", (e) => {
       e.preventDefault();
